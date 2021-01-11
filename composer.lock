@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f9538ff6992aaba3a4cc78f5e4549a07",
+    "packages": [
+        {
+            "name": "tilpark/webpack-loader",
+            "version": "v1.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tilpark/webpack-loader.git",
+                "reference": "194b5bc9d5a005801aa987bf4cc811f9cc00beb2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tilpark/webpack-loader/zipball/194b5bc9d5a005801aa987bf4cc811f9cc00beb2",
+                "reference": "194b5bc9d5a005801aa987bf4cc811f9cc00beb2",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Tilpark\\Webpack\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "m-inan",
+                    "email": "muhammet@tilpark.com"
+                }
+            ],
+            "description": "Php core webpack loader",
+            "support": {
+                "issues": "https://github.com/tilpark/webpack-loader/issues",
+                "source": "https://github.com/tilpark/webpack-loader/tree/v1.2.1"
+            },
+            "time": "2021-01-11T17:52:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

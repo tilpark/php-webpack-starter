@@ -1,0 +1,12 @@
+{
+  "name": "minan/tilpark",
+  "authors": [
+    {
+      "name": "m-inan",
+      "email": "muhammet@tilpark.com"
+    }
+  ],
+  "require": {
+    "tilpark/webpack-loader": "v1.2.1"
+  }
+}
